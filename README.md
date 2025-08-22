@@ -2,17 +2,17 @@
 I'm not just a programmer — I'm a problem solver and tech enthusiast who loves turning ideas into reality.
 Currently exploring and building in the worlds of:
 
-🌐 Web Development (MERN + Next.js)
-📱 App Development
-🤖 Artificial Intelligence / Machine Learning
-🔗 Web3
-⚙️ DevOps
+- 🌐 Web Development (MERN + Next.js)
+- 📱 App Development
+- 🤖 Artificial Intelligence / Machine Learning
+- 🔗 Web3
+- ⚙️ DevOps
 
 # 🚀 Quick Highlights
-🎓 Pursuing Bachelors in Computer Applications
-💡 Curious learner, constantly pushing boundaries
-🤝 Open to exciting collaborations, freelancing, and internships
-🧠 Believe in learning by doing and sharing knowledge with others
+- 🎓 Pursuing Bachelors in Computer Applications
+- 💡 Curious learner, constantly pushing boundaries
+- 🤝 Open to exciting collaborations, freelancing, and internships
+- 🧠 Believe in learning by doing and sharing knowledge with others
 
 
 ## 🌐 Socials:
