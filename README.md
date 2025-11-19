@@ -1,18 +1,10 @@
-# 💫 About Me:
-I'm not just a programmer — I'm a problem solver and tech enthusiast who loves turning ideas into reality.
-Currently exploring and building in the worlds of:
+Heyyyoo! I am Tanush, currently learning what the syllabus forgot to teach :)
 
-- 🌐 Web Development (MERN + Next.js)
-- 📱 App Development
-- 🤖 Artificial Intelligence / Machine Learning
-- 🔗 Web3
-- ⚙️ DevOps
-
-# 🚀 Quick Highlights
-- 🎓 Pursuing Bachelors in Computer Applications
-- 💡 Curious learner, constantly pushing boundaries
-- 🤝 Open to exciting collaborations, freelancing, and internships
-- 🧠 Believe in learning by doing and sharing knowledge with others
+# A quick overview:
+- Currently doing BCA, not relying on it too much
+- Pick up new concepts on my own because someone has to
+- Open to projects, internships, and anything that isn’t painfully dull
+- Mostly figuring things out as I go
 
 
 ## 🌐 Socials:
